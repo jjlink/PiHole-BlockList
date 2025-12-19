@@ -1,0 +1,12 @@
+# Pi-hole blocklist: Pihole.-BlockList.txt
+# Maintainer: jjlink
+# Created: 2025-12-19
+#
+# This file contains domains to block. One domain per line.
+# Lines beginning with "#" are comments and ignored by Pi-hole.
+
+ads.example.com
+tracking.example.org
+doubleclick.net
+adserver.example.co
+analytics.example.io
