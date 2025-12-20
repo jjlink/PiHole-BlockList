@@ -19,5 +19,5 @@ services.brightline.tv
 cdn-media.brightline.tv
 events.prd.api.discomax.com
 s-video.innovid.com
-vortex.data.max.com (Newer telemetry variant)
+vortex.data.max.com
 beam-images.warnermedia.com
