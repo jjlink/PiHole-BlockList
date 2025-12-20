@@ -4,6 +4,8 @@ api.us-east-1.aiv-delivery.net
 auth.max.com
 beam-images.warnermedia.com
 cdn-media.brightline.tv
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
 discomax.com
 events.prd.api.discomax.com
 exp.max.com
@@ -19,6 +21,7 @@ segments.ads.warnermedia.com
 services.brightline.tv
 s-video.innovid.com
 telemetry.max.com
+unagi-na.amazon.com
 vortex.data.max.com
 vortex.hbo.com
 vortex.hdata.max.com
