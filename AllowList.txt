@@ -14,6 +14,9 @@ bam.nr-data.net
 beam-images.warnermedia.com
 brightcove.services
 cdn-media.brightline.tv
+cloudservices.roku.com
+cooper.logs.roku.com
+customer-events.netflix.com
 cws.conviva.com
 dcape-na.amazon.com
 device-metrics-us.amazon.com
@@ -28,11 +31,13 @@ hbogo.com
 hbomax.com
 hbonow.com
 identity.mparticle.com
+js-agent.newrelic.com
 jssdks.mparticle.com
 max.com
 metrics.api.hbo.com
 mobile-collector.newrelic.com
 msh.amazon.com
+scribe.logs.roku.com
 segments.ads.warnermedia.com
 services.brightline.tv
 s-video.innovid.com
