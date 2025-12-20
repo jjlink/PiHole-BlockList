@@ -22,3 +22,5 @@ s-video.innovid.com
 vortex.data.max.com
 beam-images.warnermedia.com
 api.us-east-1.aiv-delivery.net
+ads.warnermedia.com
+vortex.data.max.com
