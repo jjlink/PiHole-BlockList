@@ -21,3 +21,4 @@ events.prd.api.discomax.com
 s-video.innovid.com
 vortex.data.max.com
 beam-images.warnermedia.com
+api.us-east-1.aiv-delivery.net
