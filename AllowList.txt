@@ -1,2 +1,17 @@
 ha.jjlink.net
 ha.jjlink.org
+max.com
+hbomax.com
+hbo.com
+discomax.com
+hbonow.com
+hbogo.com
+auth.max.com
+api.max.com
+telemetry.max.com
+exp.max.com
+vortex.hdata.max.com
+metrics.api.hbo.com
+vortex.hbo.com
+segments.ads.warnermedia.com
+warnermediacdn.com
