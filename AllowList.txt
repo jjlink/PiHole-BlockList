@@ -82,3 +82,4 @@ vortex.data.max.com
 vortex.hbo.com
 vortex.hdata.max.com
 warnermediacdn.com
+duckdns.org
