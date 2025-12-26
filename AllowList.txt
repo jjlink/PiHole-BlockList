@@ -36,6 +36,7 @@ device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 discomax.com
 events.nvidia.com
+sofabaton.auth.us-west-1.amazoncognito.com
 events.prd.api.discomax.com
 exp.max.com
 fls-na.amazon.com
