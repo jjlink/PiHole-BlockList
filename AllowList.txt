@@ -83,3 +83,6 @@ vortex.hbo.com
 vortex.hdata.max.com
 warnermediacdn.com
 duckdns.org
+www.romateck.com
+sofabaton.com
+api.romateck.com
